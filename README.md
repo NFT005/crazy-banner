@@ -1,4 +1,5 @@
-# NFT005
+# NFT005 crazy-banner
+
 git clone https://github.com/NFT005/crazy-banner
 
 cd Crazy-Banner
