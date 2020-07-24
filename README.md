@@ -1,5 +1,7 @@
 # NFT005 crazy-banner
 
+termux-setup-storage
+
 git clone https://github.com/NFT005/crazy-banner
 
 cd Crazy-Banner
